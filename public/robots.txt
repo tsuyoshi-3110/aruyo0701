@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://aruyo0701.shop
+
+# Sitemaps
+Sitemap: https://aruyo0701.shop/sitemap.xml
