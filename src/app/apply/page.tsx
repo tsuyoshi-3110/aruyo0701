@@ -21,8 +21,8 @@ export default function JobApplyPage() {
 
   return (
     <div className={clsx("max-w-3xl mx-auto p-4 space-y-6", textClass)}>
-      <h1 className="text-xl font-bold ">応募フォーム</h1>
-      <p className="text-sm opacity-80 ">
+      <h1 className="text-xl font-bold text-white text-outline ">応募フォーム</h1>
+      <p className="text-sm opacity-80 text-white text-outline">
         必要事項をご入力のうえ送信してください。後日、ご連絡差し上げます。
       </p>
       <JobApplyForm />

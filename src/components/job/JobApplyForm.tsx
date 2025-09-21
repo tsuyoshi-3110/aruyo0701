@@ -204,7 +204,7 @@ export default function JobApplyForm() {
           <div className="grid gap-2">
             <label className="text-sm font-medium text-black">ご住所</label>
             <Input
-              placeholder="例）兵庫県西宮市高須町1-1-4-613"
+              placeholder="例）兵庫県西宮市〇〇町1-2-3"
               {...register("address")}
               className="text-black"
               required
